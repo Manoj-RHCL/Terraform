@@ -1,0 +1,6 @@
+region                          = "ap-south-1"
+bucketname                      = "876313778020-t1t2t3hhhdcdc"
+project_name                    = "dev"
+snsname                         = "test-sns"
+sqsname                         = "test-sqs"
+accountid                       = "876313778020"
